@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Commands>
+	<Command toSend="bongeszo">nyisd meg a böngészőt</Command>
+	<Command toSend="fazok">fázok</Command>
+	<Command toSend="homerseklet_alap">hőmérséklet alaphelyzetbe</Command>
+	<Command toSend="homerseklet_vissza">állítsd vissza a hőmérsékletet</Command>
+	<Command toSend="klima_be">kapcsold be a klímát</Command>
+	<Command toSend="klima_le">állítsd le a légkondit</Command>
+	<Command toSend="melegem_van">melegem van</Command>
+	<Command toSend="mennyi_az_ido">mennyi az idő</Command>
+	<Command toSend="vicc">mesélj egy viccet</Command>
+	<Command toSend="villany_fel">oltsd le a villanyt</Command>
+	<Command toSend="villany_le">kapcsold fel a lámpát</Command>
+</Commands>

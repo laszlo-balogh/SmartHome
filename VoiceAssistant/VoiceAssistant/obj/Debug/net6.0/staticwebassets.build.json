@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "72/tLid9Ra+MYI7nDghyPOgB/Yxb8FXB4TosjdG76yw=",
+  "Source": "VoiceAssistant",
+  "BasePath": "_content/VoiceAssistant",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

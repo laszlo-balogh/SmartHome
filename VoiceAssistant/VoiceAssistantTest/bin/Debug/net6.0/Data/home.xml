@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Home>
+  <Temperature>17</Temperature>
+  <AirConditionerOn>False</AirConditionerOn>
+  <LightsOn>False</LightsOn>
+  <TemperatureBasicSituation>False</TemperatureBasicSituation>
+</Home>

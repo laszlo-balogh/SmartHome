@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VoiceAssistant", "VoiceAssistant\VoiceAssistant.csproj", "{B1E046CF-748B-4C7E-B83D-3E7B87FF2AD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoiceAssistantTest", "VoiceAssistantTest\VoiceAssistantTest.csproj", "{DFA91A02-69E0-4707-930C-744D3235ED00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1E046CF-748B-4C7E-B83D-3E7B87FF2AD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1E046CF-748B-4C7E-B83D-3E7B87FF2AD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1E046CF-748B-4C7E-B83D-3E7B87FF2AD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1E046CF-748B-4C7E-B83D-3E7B87FF2AD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFA91A02-69E0-4707-930C-744D3235ED00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA91A02-69E0-4707-930C-744D3235ED00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFA91A02-69E0-4707-930C-744D3235ED00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA91A02-69E0-4707-930C-744D3235ED00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7859620-4B8D-4784-9CF4-941AF42F12CE}
+	EndGlobalSection
+EndGlobal
