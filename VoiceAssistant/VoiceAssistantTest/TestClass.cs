@@ -220,7 +220,7 @@ namespace VoiceAssistantTest
         }
 
         [Test]
-        public void TemperatureToBasicSituationIncreaseTemperatureAfterCallTemperatureToBasicSituationTemeratureShouldBeSixteen()
+        public void TempToBasicSitIncreaseTempToBasSitTempShouldSixteen()
         {         
             int initialTemperature = this.homeCondition.Temperature;
 
@@ -235,7 +235,7 @@ namespace VoiceAssistantTest
         }
 
         [Test]
-        public void ResetBackTemperatureIncreaseTemperatureAfterTemperatureToBasicSituationAfterResetBackTemperatureItShouldQeualToTheTemperatureBeforeTemperatureToBasicSituationCalled()
+        public void ResBackTempIncreaseBasSitResetBackTempShouldEqeualToLastTemp()
         {
             int initialTemperature = this.homeCondition.Temperature;
 
