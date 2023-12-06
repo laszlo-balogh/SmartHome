@@ -45,7 +45,7 @@ namespace VoiceAssistant.Controllers
         {
             HttpContext.Response.Headers.Add("Access-Control-Allow-Origin", "*");            
 
-            if (command != null)
+            if (command != null && command.CommandSentence != null && command.Id != null && command.Source != null && (command.Source == "react" || command.Source =="python"))
             {
                 commandBuffer.AddOrUpdateCommand(command);
 
@@ -103,7 +103,7 @@ namespace VoiceAssistant.Controllers
             }
             else
             {
-                return BadRequest();
+                return BadRequest("Command was null or with invalid source");
             }
         }
 
