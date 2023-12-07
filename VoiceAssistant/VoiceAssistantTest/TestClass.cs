@@ -235,7 +235,7 @@ namespace VoiceAssistantTest
         }
 
         [Test]
-        public void ResBackTempIncreaseBasSitResetBackTempShouldEqeualToLastTemp()
+        public void ResBackTempIncBasSitResBackTempShouldEqeualToLastTemp()
         {
             int initialTemperature = this.homeCondition.Temperature;
 
